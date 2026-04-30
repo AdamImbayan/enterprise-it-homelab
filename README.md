@@ -14,8 +14,8 @@ integration with AWS and Azure.
 ## Lab Structure
 | Phase | Topic | Status |
 |---|---|---|
-| Phase 1 | Linux Hardening | ✅ In Progress |
-| Phase 2 | Windows Server (AD, DNS, DHCP) | ⏳ Upcoming |
+| Phase 1 | Linux Hardening | ✅ Completed |
+| Phase 2 | Windows Server (AD, DNS, DHCP) |  ✅ Completed |
 | Phase 3 | Kubernetes & Docker | ⏳ Upcoming |
 | Phase 4 | Grafana & Prometheus Monitoring | ⏳ Upcoming |
 | Phase 5 | Backup & Disaster Recovery | ⏳ Upcoming |
