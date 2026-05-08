@@ -57,3 +57,5 @@ sudo systemctl start fail2ban
 ## Result
 Ubuntu Server successfully hardened and secured
 for lab use.
+<img width="666" height="195" alt="image" src="https://github.com/user-attachments/assets/b9f8cf27-27e6-40ac-8957-1c13f79c6332" />
+
