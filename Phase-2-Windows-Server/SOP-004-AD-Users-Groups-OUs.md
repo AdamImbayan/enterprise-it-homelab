@@ -80,11 +80,11 @@ Add-ADGroupMember -Identity "HR-Staff" -Members "slee"
 <img width="586" height="163" alt="image" src="https://github.com/user-attachments/assets/210c5737-57c0-4212-82bd-8e9c144c27a5" />
 
 
-### 6a. Active Directory Users and Computers (GUI)
+### 6. Active Directory Users and Computers (GUI)
 <img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/5736222c-e686-453e-8e49-a44c20ee5c15" />
 
-### 6b. IT Department OU:
+### 7. IT Department OU:
 <img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/561a1c76-4f59-4ae9-b6df-6f5e9c46c606" />
 
-### 6c. — HR Department OU:
+### 8. — HR Department OU:
 <img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/441eb7f3-4fbc-4432-8441-54f66e87c55b" />
