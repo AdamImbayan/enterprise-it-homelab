@@ -86,5 +86,5 @@ Add-ADGroupMember -Identity "HR-Staff" -Members "slee"
 ### 7. IT Department OU:
 <img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/561a1c76-4f59-4ae9-b6df-6f5e9c46c606" />
 
-### 8. — HR Department OU:
+### 8. HR Department OU:
 <img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/441eb7f3-4fbc-4432-8441-54f66e87c55b" />
