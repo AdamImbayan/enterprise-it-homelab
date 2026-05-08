@@ -59,4 +59,30 @@ Add-ADGroupMember -Identity "HR-Staff" -Members "slee"
 - Users assigned to groups ✅
 
 ## Screenshots
-[Add screenshots here]
+
+### 1. Organizational Units (OUs)
+<img width="988" height="194" alt="image" src="https://github.com/user-attachments/assets/170a5aa9-95a4-4993-8c0d-caeb6db2385c" />
+
+
+### 2. AD Users List
+<img width="982" height="170" alt="image" src="https://github.com/user-attachments/assets/d65e4701-a280-4ae4-b4ed-f5df6ff08add" />
+
+
+### 3. AD Groups List
+<img width="722" height="879" alt="image" src="https://github.com/user-attachments/assets/14446116-e31f-4298-9f7c-21fcc6d0a3b0" />
+
+
+### 4. IT-Admins Group Members
+<img width="586" height="163" alt="image" src="https://github.com/user-attachments/assets/a3c198ce-bdea-4656-9dfd-4de470216d71" />
+
+
+### 5. HR-Staff Group Members
+<img width="586" height="163" alt="image" src="https://github.com/user-attachments/assets/210c5737-57c0-4212-82bd-8e9c144c27a5" />
+
+
+### 6a. Active Directory Users and Computers (GUI)
+<img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/5736222c-e686-453e-8e49-a44c20ee5c15" />
+### 6b. IT Department OU:
+<img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/561a1c76-4f59-4ae9-b6df-6f5e9c46c606" />
+### 6c — HR Department OU:
+<img width="1120" height="568" alt="image" src="https://github.com/user-attachments/assets/441eb7f3-4fbc-4432-8441-54f66e87c55b" />
