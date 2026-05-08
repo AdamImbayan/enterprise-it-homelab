@@ -36,10 +36,14 @@ for Active Directory lab environment.
 
 ## Screenshots
 
+### 1. VM Overview - Azure Portal
 <img width="1340" height="294" alt="image" src="https://github.com/user-attachments/assets/b76353b0-5b91-4553-9db5-53f3b1616ba3" />
 
+### 2. Auto-Shutdown Configuration
 <img width="1329" height="387" alt="image" src="https://github.com/user-attachments/assets/20e51edf-bf23-4603-8fec-0092eda676f8" />
 
+### 3. Network Settings - RDP Port 3389
 <img width="1329" height="387" alt="image" src="https://github.com/user-attachments/assets/171130ac-3d46-4f1b-a169-cacf6c33f5f1" />
 
+### 4. Server Manager Dashboard
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/20cabd75-6961-436d-94a9-b764ed922ac1" />
