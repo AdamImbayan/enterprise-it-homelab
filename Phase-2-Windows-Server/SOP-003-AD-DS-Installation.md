@@ -47,7 +47,11 @@ netdom query fsmo
 ###1. Server Manager — Roles Overview
 <img width="1735" height="879" alt="image" src="https://github.com/user-attachments/assets/784dbea7-d3bf-4017-8224-ffcd59d7e278" />
 
+
+###2. Installed Roles via PowerShell
 <img width="1163" height="576" alt="image" src="https://github.com/user-attachments/assets/745b0829-37d5-48e3-ba03-b45a290d5021" />
 
+
+###3. AD Domain Info
 <img width="1290" height="556" alt="image" src="https://github.com/user-attachments/assets/0ae79ba1-017e-4159-9fcc-bbfa846054cf" />
 
