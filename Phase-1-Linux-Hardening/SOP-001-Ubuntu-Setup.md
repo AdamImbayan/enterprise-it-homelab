@@ -72,3 +72,6 @@ for lab use.
 
 ## 5. Installed packages
 <img width="1150" height="75" alt="image" src="https://github.com/user-attachments/assets/f2039e0e-2129-405c-9fc2-38e698d5b8fb" />
+
+## 6. Active services
+<img width="1020" height="75" alt="image" src="https://github.com/user-attachments/assets/492992bb-666c-48ef-9915-ff59918c95ae" />
