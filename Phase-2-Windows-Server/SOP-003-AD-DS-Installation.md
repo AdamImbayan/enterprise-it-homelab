@@ -55,3 +55,11 @@ netdom query fsmo
 ### 3. AD Domain Info
 <img width="1290" height="556" alt="image" src="https://github.com/user-attachments/assets/0ae79ba1-017e-4159-9fcc-bbfa846054cf" />
 
+
+### 4. FSMO Roles
+<img width="539" height="146" alt="image" src="https://github.com/user-attachments/assets/547f09d0-07df-4d19-94c8-31f021768246" />
+
+### 5. DNS Zones
+<img width="986" height="226" alt="image" src="https://github.com/user-attachments/assets/5e840a70-4a7a-46b7-a6d8-2f272eed5f04" />
+
+
