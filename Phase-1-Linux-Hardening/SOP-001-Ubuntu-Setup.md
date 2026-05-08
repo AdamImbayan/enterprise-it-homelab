@@ -66,3 +66,9 @@ for lab use.
 
 ## 3. fail2ban status
 <img width="1433" height="439" alt="image" src="https://github.com/user-attachments/assets/3f4225e2-e969-4756-a4fc-49f4b1d231ff" />
+
+## 4. SSH config verification
+<img width="709" height="78" alt="image" src="https://github.com/user-attachments/assets/a91f0379-db59-4cad-9226-743d81fae52a" />
+
+## 5. Installed packages
+<img width="1150" height="75" alt="image" src="https://github.com/user-attachments/assets/f2039e0e-2129-405c-9fc2-38e698d5b8fb" />
