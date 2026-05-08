@@ -45,7 +45,7 @@ for Active Directory lab environment.
 
 
 ### 3. Network Settings - RDP Port 3389
-<img width="1329" height="387" alt="image" src="https://github.com/user-attachments/assets/171130ac-3d46-4f1b-a169-cacf6c33f5f1" />
+<img width="1496" height="783" alt="image" src="https://github.com/user-attachments/assets/45524557-17ae-433c-8378-4dfb2af397b7" />
 
 
 ### 4. Server Manager Dashboard
