@@ -58,9 +58,11 @@ sudo systemctl start fail2ban
 Ubuntu Server successfully hardened and secured
 for lab use.
 
-# 1. System info
+## 1. System info
 <img width="988" height="57" alt="image" src="https://github.com/user-attachments/assets/60f239b4-7e8a-490d-a6e3-10af683d6908" />
 
-# 2. UFW status
+## 2. UFW status
 <img width="666" height="195" alt="image" src="https://github.com/user-attachments/assets/b9f8cf27-27e6-40ac-8957-1c13f79c6332" />
 
+## 3. fail2ban status
+<img width="1433" height="439" alt="image" src="https://github.com/user-attachments/assets/3f4225e2-e969-4756-a4fc-49f4b1d231ff" />
